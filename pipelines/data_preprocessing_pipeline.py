@@ -12,8 +12,6 @@ batch_size = 32
 # Call data preprocessing functions
 val_ds, test_ds, train_ds = load_datasets(img_height, img_width, batch_size)
 
-
-# Visualize images before preprocessing
 class_names = val_ds.class_names
 
 # Preprocess datasets
