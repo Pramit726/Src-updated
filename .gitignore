@@ -1,4 +1,3 @@
 converted_img/
+components/__pycache__/
 components/add.py
-pipelines/doaddition.py
-components\__pycache__
